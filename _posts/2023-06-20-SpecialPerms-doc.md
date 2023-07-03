@@ -1,6 +1,7 @@
 ---
 layout: post
 author: cbdRedGG
+title: Permisos especiales en Linux
 ---
 
 ### Sticky Bit
